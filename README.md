@@ -2,11 +2,9 @@
 
 ## Overview
 
-This project was completed as part of a Microsoft Power BI Capstone project focused on business intelligence reporting, data preparation, data modeling, DAX calculations, dashboard development, and Power BI Service publishing.
+This project was completed as part of the Microsoft Power BI Data Analyst Professional Certificate capstone.
 
-The project uses Tailwind Traders sales and purchasing data to build interactive reports and dashboards that help analyze sales performance, revenue trends, product performance, country-level performance, and profitability.
-
-The goal of the project was to create an end-to-end business intelligence solution that prepares raw data, transforms it into a usable reporting model, and presents key insights through interactive Power BI dashboards.
+It uses Tailwind Traders sales and purchasing data to build an end-to-end business intelligence solution covering data preparation, data modeling, DAX calculations, interactive dashboards, and Power BI Service publishing.
 
 ---
 
