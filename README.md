@@ -304,27 +304,27 @@ Power BI Performance Analyzer was used to review report performance.
 
 ### Excel Data Preparation
 
-![Excel Data Preparation](screenshots/excel-prepared-data.png)
+![Excel Data Preparation](screenshots/excel-prepared-data.PNG)
 
 ### Power BI Data Model
 
-![Power BI Data Model](screenshots/data-model.png)
+![Power BI Data Model](screenshots/data-model.PNG)
 
 ### Sales Overview Dashboard
 
-![Sales Overview Dashboard](screenshots/sales-overview.png)
+![Sales Overview Dashboard](screenshots/sales-overview.PNG)
 
 ### Profit Overview Dashboard
 
-![Profit Overview Dashboard](screenshots/profit-overview.png)
+![Profit Overview Dashboard](screenshots/profit-overview.PNG)
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![Executive Dashboard](screenshots/executive-dashboard.PNG)
 
 ### Mobile Dashboard Layout
 
-![Mobile Dashboard Layout](screenshots/executive-dashboard-mobile.png)
+![Mobile Dashboard Layout](screenshots/executive-dashboard-mobile.PNG)
 
 ---
 
